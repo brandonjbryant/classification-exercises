@@ -128,3 +128,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#classification
+.DS_Store
+.ipynb_checkpoints/
+__pycache__
+titanic.csv
+iris.csv
