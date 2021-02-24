@@ -135,3 +135,7 @@ dmypy.json
 __pycache__
 titanic.csv
 iris.csv
+train.xlsx
+untidy-data/
+iris_df.csv
+Spreadsheets_Exercises.xlsx
