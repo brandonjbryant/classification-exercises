@@ -129,7 +129,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-#classification
+##.DS_Store, .ipynb_checkpoints/, pycache, titanic.csv, iris.csv, and env.py.
 .DS_Store
 .ipynb_checkpoints/
 __pycache__
@@ -139,3 +139,4 @@ train.xlsx
 untidy-data/
 iris_df.csv
 Spreadsheets_Exercises.xlsx
+titanic_df.csv
